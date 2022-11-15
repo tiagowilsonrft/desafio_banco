@@ -1,0 +1,2 @@
+criação de projeto para BootCamp DIO 
+ foi criado um banco com algumas operações e algumas inserções de dados e clientes nesse banco. 
